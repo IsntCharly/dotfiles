@@ -1,0 +1,23 @@
+2022/06/16-09:12:21.469 4154 Reusing MANIFEST /home/carlos/.config/Microsoft/Microsoft Teams/Local Storage/leveldb/MANIFEST-000001
+2022/06/16-09:12:21.469 4154 Recovering log #74
+2022/06/16-09:12:21.482 4154 Level-0 table #77: started
+2022/06/16-09:12:21.498 4154 Level-0 table #77: 542619 bytes OK
+2022/06/16-09:12:21.500 4154 Delete type=0 #74
+2022/06/16-09:12:21.502 416c Compacting 4@0 + 1@1 files
+2022/06/16-09:12:21.528 416c Generated table #79@0: 163 keys, 822968 bytes
+2022/06/16-09:12:21.528 416c Compacted 4@0 + 1@1 files => 822968 bytes
+2022/06/16-09:12:21.529 416c compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/06/16-09:12:21.529 416c Delete type=2 #68
+2022/06/16-09:12:21.529 416c Delete type=2 #73
+2022/06/16-09:12:21.529 416c Delete type=2 #77
+2022/06/16-09:12:21.529 416c Delete type=2 #75
+2022/06/16-09:12:21.529 416c Delete type=2 #70
+2022/06/16-09:13:22.239 416c Level-0 table #81: started
+2022/06/16-09:13:22.274 416c Level-0 table #81: 67293 bytes OK
+2022/06/16-09:13:22.276 416c Delete type=0 #78
+2022/06/16-09:18:29.645 416c Level-0 table #83: started
+2022/06/16-09:18:29.654 416c Level-0 table #83: 120918 bytes OK
+2022/06/16-09:18:29.656 416c Delete type=0 #80
+2022/06/16-09:35:42.354 416c Level-0 table #85: started
+2022/06/16-09:35:42.365 416c Level-0 table #85: 164675 bytes OK
+2022/06/16-09:35:42.368 416c Delete type=0 #82

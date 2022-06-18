@@ -1,0 +1,35 @@
+2022/06/16-10:18:26.726 69cd Reusing MANIFEST /home/carlos/.config/Microsoft/Microsoft Teams/Local Storage/leveldb/MANIFEST-000001
+2022/06/16-10:18:26.726 69cd Recovering log #84
+2022/06/16-10:18:26.734 69cd Level-0 table #87: started
+2022/06/16-10:18:26.746 69cd Level-0 table #87: 634131 bytes OK
+2022/06/16-10:18:26.750 69cd Delete type=0 #84
+2022/06/16-10:18:26.751 69fa Compacting 4@0 + 1@1 files
+2022/06/16-10:18:26.781 69fa Generated table #89@0: 167 keys, 873700 bytes
+2022/06/16-10:18:26.781 69fa Compacted 4@0 + 1@1 files => 873700 bytes
+2022/06/16-10:18:26.783 69fa compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/06/16-10:18:26.783 69fa Delete type=2 #87
+2022/06/16-10:18:26.783 69fa Delete type=2 #79
+2022/06/16-10:18:26.783 69fa Delete type=2 #85
+2022/06/16-10:18:26.783 69fa Delete type=2 #81
+2022/06/16-10:18:26.783 69fa Delete type=2 #83
+2022/06/16-10:19:27.581 69fa Level-0 table #91: started
+2022/06/16-10:19:27.596 69fa Level-0 table #91: 374523 bytes OK
+2022/06/16-10:19:27.599 69fa Delete type=0 #88
+2022/06/16-10:23:39.679 69fa Level-0 table #93: started
+2022/06/16-10:23:39.691 69fa Level-0 table #93: 180186 bytes OK
+2022/06/16-10:23:39.694 69fa Delete type=0 #90
+2022/06/16-10:24:29.791 69fa Level-0 table #95: started
+2022/06/16-10:24:29.799 69fa Level-0 table #95: 144420 bytes OK
+2022/06/16-10:24:29.803 69fa Delete type=0 #92
+2022/06/16-11:07:32.262 69fa Level-0 table #97: started
+2022/06/16-11:07:32.266 69fa Level-0 table #97: 65675 bytes OK
+2022/06/16-11:07:32.269 69fa Delete type=0 #94
+2022/06/16-11:07:32.269 69fa Compacting 4@0 + 1@1 files
+2022/06/16-11:07:32.298 69fa Generated table #98@0: 171 keys, 624396 bytes
+2022/06/16-11:07:32.298 69fa Compacted 4@0 + 1@1 files => 624396 bytes
+2022/06/16-11:07:32.300 69fa compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/06/16-11:07:32.300 69fa Delete type=2 #89
+2022/06/16-11:07:32.300 69fa Delete type=2 #95
+2022/06/16-11:07:32.300 69fa Delete type=2 #93
+2022/06/16-11:07:32.300 69fa Delete type=2 #97
+2022/06/16-11:07:32.300 69fa Delete type=2 #91

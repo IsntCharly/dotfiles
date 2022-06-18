@@ -1,0 +1,11 @@
+# GIMP gimp-vector-tool options
+
+(foreground (color-rgb 0.16470588743686676 0.18431372940540314 0.23921570181846619))
+(background (color-rgb 0.13427561837455826 0.082007256859629535 0.098629703984518563))
+(brush "2. Hardness 050")
+(dynamics "Dynamics Off")
+(pattern "Pine")
+(gradient "Primer plano a fondo (RGB)")
+(palette "Histórico de color")
+
+# end of gimp-vector-tool options

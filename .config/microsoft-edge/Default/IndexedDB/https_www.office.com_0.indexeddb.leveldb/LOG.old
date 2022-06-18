@@ -1,0 +1,6 @@
+2022/06/15-08:51:06.273 40e Reusing MANIFEST /home/carlos/.config/microsoft-edge/Default/IndexedDB/https_www.office.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/06/15-08:51:06.273 40e Recovering log #3
+2022/06/15-08:51:06.273 40e Reusing old log /home/carlos/.config/microsoft-edge/Default/IndexedDB/https_www.office.com_0.indexeddb.leveldb/000003.log 
+2022/06/15-08:59:47.414 ec1 Level-0 table #5: started
+2022/06/15-08:59:47.440 ec1 Level-0 table #5: 2677504 bytes OK
+2022/06/15-08:59:47.443 ec1 Delete type=0 #3

@@ -1,0 +1,74 @@
+2022/06/16-13:49:04.373 c620 Creating DB /home/carlos/.config/microsoft-edge/Default/IndexedDB/https_mega.nz_0.indexeddb.leveldb since it was missing.
+2022/06/16-13:49:04.377 c620 Reusing MANIFEST /home/carlos/.config/microsoft-edge/Default/IndexedDB/https_mega.nz_0.indexeddb.leveldb/MANIFEST-000001
+2022/06/16-13:50:36.180 c74e Level-0 table #5: started
+2022/06/16-13:50:36.205 c74e Level-0 table #5: 3913300 bytes OK
+2022/06/16-13:50:36.208 c74e Delete type=0 #3
+2022/06/16-13:51:12.734 c297 Level-0 table #7: started
+2022/06/16-13:51:12.756 c297 Level-0 table #7: 3989218 bytes OK
+2022/06/16-13:51:12.758 c297 Delete type=0 #4
+2022/06/16-13:51:24.538 c71a Compacting 1@1 + 1@2 files
+2022/06/16-13:51:24.548 c71a Generated table #8@1: 285 keys, 2108959 bytes
+2022/06/16-13:51:24.560 c71a Generated table #9@1: 1013 keys, 2142168 bytes
+2022/06/16-13:51:24.572 c71a Generated table #10@1: 109 keys, 2138322 bytes
+2022/06/16-13:51:24.582 c71a Generated table #11@1: 609 keys, 1094461 bytes
+2022/06/16-13:51:24.582 c71a Compacted 1@1 + 1@2 files => 7483910 bytes
+2022/06/16-13:51:24.585 c71a compacted to: files[ 0 0 4 0 0 0 0 ]
+2022/06/16-13:51:24.585 c71a Delete type=2 #7
+2022/06/16-13:51:24.585 c71a Delete type=2 #5
+2022/06/16-13:53:59.647 c6e2 Level-0 table #13: started
+2022/06/16-13:53:59.667 c6e2 Level-0 table #13: 3905854 bytes OK
+2022/06/16-13:53:59.669 c6e2 Delete type=0 #6
+2022/06/16-13:54:19.495 c7a1 Compacting 1@1 + 4@2 files
+2022/06/16-13:54:19.510 c7a1 Generated table #14@1: 318 keys, 2149488 bytes
+2022/06/16-13:54:19.528 c7a1 Generated table #15@1: 1468 keys, 2131974 bytes
+2022/06/16-13:54:19.547 c7a1 Generated table #16@1: 120 keys, 2118920 bytes
+2022/06/16-13:54:19.565 c7a1 Generated table #17@1: 98 keys, 2123668 bytes
+2022/06/16-13:54:19.577 c7a1 Generated table #18@1: 821 keys, 998871 bytes
+2022/06/16-13:54:19.577 c7a1 Compacted 1@1 + 4@2 files => 9522921 bytes
+2022/06/16-13:54:19.578 c7a1 compacted to: files[ 0 0 5 0 0 0 0 ]
+2022/06/16-13:54:19.579 c7a1 Delete type=2 #9
+2022/06/16-13:54:19.579 c7a1 Delete type=2 #8
+2022/06/16-13:54:19.579 c7a1 Delete type=2 #13
+2022/06/16-13:54:19.579 c7a1 Delete type=2 #10
+2022/06/16-13:54:19.579 c7a1 Delete type=2 #11
+2022/06/16-13:56:16.007 c788 Level-0 table #20: started
+2022/06/16-13:56:16.029 c788 Level-0 table #20: 3791963 bytes OK
+2022/06/16-13:56:16.031 c788 Delete type=0 #12
+2022/06/16-13:56:20.298 c7a1 Compacting 1@1 + 5@2 files
+2022/06/16-13:56:20.322 c7a1 Generated table #21@1: 324 keys, 2120873 bytes
+2022/06/16-13:56:20.333 c7a1 Generated table #22@1: 1628 keys, 2111723 bytes
+2022/06/16-13:56:20.344 c7a1 Generated table #23@1: 708 keys, 2141255 bytes
+2022/06/16-13:56:20.354 c7a1 Generated table #24@1: 124 keys, 2148707 bytes
+2022/06/16-13:56:20.362 c7a1 Generated table #25@1: 136 keys, 2129602 bytes
+2022/06/16-13:56:20.371 c7a1 Generated table #26@1: 473 keys, 2108666 bytes
+2022/06/16-13:56:20.373 c7a1 Generated table #27@1: 895 keys, 66802 bytes
+2022/06/16-13:56:20.373 c7a1 Compacted 1@1 + 5@2 files => 12827628 bytes
+2022/06/16-13:56:20.374 c7a1 compacted to: files[ 0 0 7 0 0 0 0 ]
+2022/06/16-13:56:20.375 c7a1 Delete type=2 #16
+2022/06/16-13:56:20.375 c7a1 Delete type=2 #18
+2022/06/16-13:56:20.375 c7a1 Delete type=2 #15
+2022/06/16-13:56:20.375 c7a1 Delete type=2 #20
+2022/06/16-13:56:20.375 c7a1 Delete type=2 #14
+2022/06/16-13:56:20.375 c7a1 Delete type=2 #17
+2022/06/16-13:56:48.205 c7b4 Level-0 table #29: started
+2022/06/16-13:56:48.235 c7b4 Level-0 table #29: 3843934 bytes OK
+2022/06/16-13:56:48.238 c7b4 Delete type=0 #19
+2022/06/16-13:56:52.679 c7a1 Compacting 1@1 + 7@2 files
+2022/06/16-13:56:52.692 c7a1 Generated table #30@1: 318 keys, 2112379 bytes
+2022/06/16-13:56:52.703 c7a1 Generated table #31@1: 288 keys, 2127843 bytes
+2022/06/16-13:56:52.715 c7a1 Generated table #32@1: 1994 keys, 2118457 bytes
+2022/06/16-13:56:52.727 c7a1 Generated table #33@1: 762 keys, 2132526 bytes
+2022/06/16-13:56:52.735 c7a1 Generated table #34@1: 126 keys, 2129246 bytes
+2022/06/16-13:56:52.744 c7a1 Generated table #35@1: 125 keys, 2147681 bytes
+2022/06/16-13:56:52.752 c7a1 Generated table #36@1: 132 keys, 2133055 bytes
+2022/06/16-13:56:52.760 c7a1 Generated table #37@1: 1710 keys, 1691260 bytes
+2022/06/16-13:56:52.760 c7a1 Compacted 1@1 + 7@2 files => 16592447 bytes
+2022/06/16-13:56:52.762 c7a1 compacted to: files[ 0 0 8 0 0 0 0 ]
+2022/06/16-13:56:52.763 c7a1 Delete type=2 #26
+2022/06/16-13:56:52.763 c7a1 Delete type=2 #21
+2022/06/16-13:56:52.763 c7a1 Delete type=2 #24
+2022/06/16-13:56:52.763 c7a1 Delete type=2 #29
+2022/06/16-13:56:52.763 c7a1 Delete type=2 #22
+2022/06/16-13:56:52.763 c7a1 Delete type=2 #27
+2022/06/16-13:56:52.763 c7a1 Delete type=2 #23
+2022/06/16-13:56:52.763 c7a1 Delete type=2 #25
