@@ -1,0 +1,72 @@
+[2022-06-20 12:14:43.507] [info]  [main]: getting non-mac deeplink  
+- {
+  "deeplink": "/opt/clickup/ClickUp"
+}
+[2022-06-20 12:14:43.683] [info]  [main]: Electron ready
+[2022-06-20 12:14:43.751] [info]  [main]: Window opened at {x: undefined, y: undefined, width: 1260, height: 800}
+[2022-06-20 12:14:43.766] [info]  [main]: App ready
+[2022-06-20 12:14:45.431] [info]  [main]: setting up push receiver
+[2022-06-20 12:14:45.444] [info]  [main]: Main window shown
+[2022-06-20 12:14:46.882] [info]  [main]: did-navigate-in-page (https://app.clickup.com/login)
+[2022-06-20 12:20:13.437] [info]  [main]: getting non-mac deeplink  
+- {
+  "deeplink": "/opt/clickup/ClickUp"
+}
+[2022-06-20 12:20:13.557] [info]  [main]: Electron ready
+[2022-06-20 12:20:13.620] [info]  [main]: Window opened at {x: undefined, y: undefined, width: 1260, height: 800}
+[2022-06-20 12:20:13.632] [info]  [main]: App ready
+[2022-06-20 12:20:16.113] [info]  [main]: setting up push receiver
+[2022-06-20 12:20:16.123] [info]  [main]: Main window shown
+[2022-06-20 12:20:16.507] [info]  [main]: did-navigate-in-page (https://app.clickup.com/login)
+[2022-06-20 12:20:23.408] [info]  [main]: did-navigate-in-page (https://app.clickup.com/login/sso)
+[2022-06-20 12:21:03.666] [info]  [main]: did-navigate-in-page (https://app.clickup.com/login)
+[2022-06-20 12:21:18.813] [info]  [main]: did-navigate-in-page (https://app.clickup.com/login)
+[2022-06-20 12:21:18.873] [info]  [main]: did-navigate-in-page (https://app.clickup.com/36235582/v/s/60201631)
+[2022-06-20 12:21:21.278] [info]  [main]: did-navigate-in-page (https://app.clickup.com/36235582/v/l/s/60201631)
+[2022-06-20 12:22:08.784] [info]  [main]: did-navigate-in-page (https://app.clickup.com/36235582/v/dc/12hu9y-140)
+[2022-06-20 12:22:09.151] [info]  [main]: did-navigate-in-page (https://app.clickup.com/36235582/v/dc/12hu9y-140/12hu9y-160)
+[2022-06-20 12:22:09.397] [info]  [main]: did-navigate-in-page (https://app.clickup.com/36235582/v/dc/12hu9y-140/12hu9y-160)
+[2022-06-20 12:22:09.454] [info]  [main]: did-navigate-in-page (https://app.clickup.com/36235582/v/dc/12hu9y-140/12hu9y-160)
+[2022-06-20 12:22:09.794] [info]  [main]: did-navigate-in-page (https://app.clickup.com/36235582/v/dc/12hu9y-140/12hu9y-160)
+[2022-06-20 12:22:14.854] [info]  [main]: did-navigate-in-page (https://app.clickup.com/36235582/v/dc/12hu9y-140/12hu9y-160)
+[2022-06-20 12:22:14.861] [info]  [main]: did-navigate-in-page (https://app.clickup.com/36235582/v/dc/12hu9y-140/12hu9y-160)
+[2022-06-20 12:22:14.881] [info]  [main]: did-navigate-in-page (https://app.clickup.com/36235582/v/dc/12hu9y-140/12hu9y-160)
+[2022-06-20 12:22:14.889] [info]  [main]: did-navigate-in-page (https://app.clickup.com/36235582/v/dc/12hu9y-140/12hu9y-160)
+[2022-06-20 12:22:33.926] [info]  [main]: did-navigate-in-page (https://app.clickup.com/36235582/v/dc/12hu9y-140/12hu9y-160)
+[2022-06-20 12:22:33.960] [info]  [main]: did-navigate-in-page (https://app.clickup.com/36235582/v/dc/12hu9y-140/12hu9y-160)
+[2022-06-20 12:22:33.987] [info]  [main]: did-navigate-in-page (https://app.clickup.com/36235582/v/dc/12hu9y-140/12hu9y-160)
+[2022-06-20 12:22:34.531] [info]  [main]: did-navigate-in-page (https://app.clickup.com/36235582/v/dc/12hu9y-140/12hu9y-160)
+[2022-06-20 12:22:34.563] [info]  [main]: did-navigate-in-page (https://app.clickup.com/36235582/v/dc/12hu9y-140/12hu9y-160)
+[2022-06-20 12:22:41.911] [info]  [main]: did-navigate-in-page (https://app.clickup.com/36235582/v/dc/12hu9y-140/12hu9y-160)
+[2022-06-20 12:22:41.921] [info]  [main]: did-navigate-in-page (https://app.clickup.com/36235582/v/dc/12hu9y-140/12hu9y-160)
+[2022-06-20 12:22:41.929] [info]  [main]: did-navigate-in-page (https://app.clickup.com/36235582/v/dc/12hu9y-140/12hu9y-160)
+[2022-06-20 12:22:42.353] [info]  [main]: did-navigate-in-page (https://app.clickup.com/36235582/v/dc/12hu9y-140/12hu9y-160)
+[2022-06-20 12:22:42.365] [info]  [main]: did-navigate-in-page (https://app.clickup.com/36235582/v/dc/12hu9y-140/12hu9y-160)
+[2022-06-20 12:22:45.102] [info]  [main]: did-navigate-in-page (https://app.clickup.com/36235582/v/dc/12hu9y-140/12hu9y-160)
+[2022-06-20 12:22:45.111] [info]  [main]: did-navigate-in-page (https://app.clickup.com/36235582/v/dc/12hu9y-140/12hu9y-160)
+[2022-06-20 12:22:45.372] [info]  [main]: did-navigate-in-page (https://app.clickup.com/36235582/v/dc/12hu9y-140/12hu9y-160)
+[2022-06-20 12:22:46.901] [info]  [main]: did-navigate-in-page (https://app.clickup.com/36235582/v/dc/12hu9y-140/12hu9y-160)
+[2022-06-20 12:22:46.910] [info]  [main]: did-navigate-in-page (https://app.clickup.com/36235582/v/dc/12hu9y-140/12hu9y-160)
+[2022-06-20 12:22:47.157] [info]  [main]: did-navigate-in-page (https://app.clickup.com/36235582/v/dc/12hu9y-140/12hu9y-160)
+[2022-06-20 12:23:00.958] [info]  [main]: did-navigate-in-page (https://app.clickup.com/36235582/v/dc/12hu9y-140/12hu9y-160)
+[2022-06-20 12:23:01.010] [info]  [main]: did-navigate-in-page (https://app.clickup.com/36235582/v/dc/12hu9y-140/12hu9y-160)
+[2022-06-20 12:23:01.020] [info]  [main]: did-navigate-in-page (https://app.clickup.com/36235582/v/dc/12hu9y-140/12hu9y-160)
+[2022-06-20 12:23:01.027] [info]  [main]: did-navigate-in-page (https://app.clickup.com/36235582/v/dc/12hu9y-140/12hu9y-160)
+[2022-06-20 12:23:01.031] [info]  [main]: did-navigate-in-page (https://app.clickup.com/36235582/v/l/s/60201631)
+[2022-06-20 12:23:25.661] [info]  [main]: did-navigate-in-page (https://app.clickup.com/36235582/v/dc/12hu9y-160)
+[2022-06-20 12:23:26.081] [info]  [main]: did-navigate-in-page (https://app.clickup.com/36235582/v/dc/12hu9y-160/12hu9y-180)
+[2022-06-20 12:23:26.126] [info]  [main]: did-navigate-in-page (https://app.clickup.com/36235582/v/dc/12hu9y-160/12hu9y-180)
+[2022-06-20 12:23:31.679] [info]  [main]: did-navigate-in-page (https://app.clickup.com/36235582/v/dc/12hu9y-160/12hu9y-180)
+[2022-06-20 12:23:31.712] [info]  [main]: did-navigate-in-page (https://app.clickup.com/36235582/v/dc/12hu9y-160/12hu9y-180)
+[2022-06-20 12:23:31.758] [info]  [main]: did-navigate-in-page (https://app.clickup.com/36235582/v/dc/12hu9y-160/12hu9y-180)
+[2022-06-20 12:23:31.776] [info]  [main]: did-navigate-in-page (https://app.clickup.com/36235582/v/dc/12hu9y-160/12hu9y-180)
+[2022-06-20 12:23:32.002] [info]  [main]: did-navigate-in-page (https://app.clickup.com/36235582/v/dc/12hu9y-160/12hu9y-200)
+[2022-06-20 12:23:32.017] [info]  [main]: did-navigate-in-page (https://app.clickup.com/36235582/v/dc/12hu9y-160/12hu9y-200)
+[2022-06-20 12:23:32.023] [info]  [main]: did-navigate-in-page (https://app.clickup.com/36235582/v/dc/12hu9y-160/12hu9y-200)
+[2022-06-20 12:23:32.030] [info]  [main]: did-navigate-in-page (https://app.clickup.com/36235582/v/dc/12hu9y-160/12hu9y-200)
+[2022-06-20 12:23:32.095] [info]  [main]: did-navigate-in-page (https://app.clickup.com/36235582/v/dc/12hu9y-160/12hu9y-200)
+[2022-06-20 12:23:32.105] [info]  [main]: did-navigate-in-page (https://app.clickup.com/36235582/v/dc/12hu9y-160/12hu9y-200)
+[2022-06-20 12:23:32.142] [info]  [main]: did-navigate-in-page (https://app.clickup.com/36235582/v/dc/12hu9y-160/12hu9y-200)
+[2022-06-20 12:23:32.308] [info]  [main]: did-navigate-in-page (https://app.clickup.com/36235582/v/dc/12hu9y-160/12hu9y-200)
+[2022-06-20 12:23:32.683] [info]  [main]: did-navigate-in-page (https://app.clickup.com/36235582/v/dc/12hu9y-160/12hu9y-200)
+[2022-06-20 12:23:32.855] [info]  [main]: did-navigate-in-page (https://app.clickup.com/36235582/v/dc/12hu9y-160/12hu9y-200)

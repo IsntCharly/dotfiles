@@ -1,5 +1,6 @@
-2022/06/17-15:47:26.625 106de Creating DB /home/carlos/.config/discord/Local Storage/leveldb since it was missing.
-2022/06/17-15:47:26.631 106de Reusing MANIFEST /home/carlos/.config/discord/Local Storage/leveldb/MANIFEST-000001
-2022/06/17-15:49:39.936 106ef Level-0 table #5: started
-2022/06/17-15:49:39.952 106ef Level-0 table #5: 458507 bytes OK
-2022/06/17-15:49:39.955 106ef Delete type=0 #3
+2022/06/21-13:35:42.477 1ddb Reusing MANIFEST /home/carlos/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2022/06/21-13:35:42.477 1ddb Recovering log #4
+2022/06/21-13:35:42.477 1ddb Reusing old log /home/carlos/.config/discord/Local Storage/leveldb/000004.log 
+2022/06/21-13:39:46.437 1deb Level-0 table #8: started
+2022/06/21-13:39:46.448 1deb Level-0 table #8: 457649 bytes OK
+2022/06/21-13:39:46.450 1deb Delete type=0 #4

@@ -1,5 +1,15 @@
 {
-    "telemetry.machineId": "e66203ab3388629701077abc0f394b2e7eb0659f04eb167cdc9e00a5e8983fc9",
+    "telemetry.machineId": "aef26e6f966745f2a197cb5438bd581291ab11d8baa0bc50a5225a10c7fb0c1c",
+    "openedPathsList": {
+        "entries": [
+            {
+                "folderUri": "file:///home/zodd/Dropbox/Programming/Maude"
+            },
+            {
+                "folderUri": "file:///home/zodd/Dropbox/Programming/C/Split"
+            }
+        ]
+    },
     "lastKnownMenubarData": {
         "menus": {
             "File": {
@@ -38,8 +48,7 @@
                             "items": [
                                 {
                                     "id": "workbench.action.reopenClosedEditor",
-                                    "label": "&&Reopen Closed Editor",
-                                    "enabled": false
+                                    "label": "&&Reopen Closed Editor"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -48,7 +57,29 @@
                                     "id": "openRecentFolder",
                                     "uri": {
                                         "$mid": 1,
-                                        "fsPath": "/home/carlos/.config/openbox/polybar",
+                                        "fsPath": "/home/carlos/Documents/projects-web",
+                                        "external": "file:///home/carlos/Documents/projects-web",
+                                        "path": "/home/carlos/Documents/projects-web",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Documents/projects-web"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/carlos/Documentos/code",
+                                        "path": "/home/carlos/Documentos/code",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Documentos/code"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
                                         "external": "file:///home/carlos/.config/openbox/polybar",
                                         "path": "/home/carlos/.config/openbox/polybar",
                                         "scheme": "file"
@@ -101,8 +132,7 @@
                     },
                     {
                         "id": "saveAll",
-                        "label": "Save A&&ll",
-                        "enabled": false
+                        "label": "Save A&&ll"
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -379,8 +409,7 @@
                                 },
                                 {
                                     "id": "workbench.action.toggleMenuBar",
-                                    "label": "Show Menu &&Bar",
-                                    "checked": true
+                                    "label": "Show Menu &&Bar"
                                 },
                                 {
                                     "id": "workbench.action.toggleSidebarVisibility",
@@ -623,8 +652,7 @@
                 "items": [
                     {
                         "id": "workbench.action.navigateBack",
-                        "label": "&&Back",
-                        "enabled": false
+                        "label": "&&Back"
                     },
                     {
                         "id": "workbench.action.navigateForward",
@@ -633,8 +661,7 @@
                     },
                     {
                         "id": "workbench.action.navigateToLastEditLocation",
-                        "label": "&&Last Edit Location",
-                        "enabled": false
+                        "label": "&&Last Edit Location"
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -1326,6 +1353,11 @@
                 "label": "Ctrl+Shift+Y",
                 "userSettingsLabel": "ctrl+shift+y"
             },
+            "workbench.action.terminal.toggleTerminal": {
+                "label": "Ctrl+ñ",
+                "isNative": false,
+                "userSettingsLabel": "ctrl+[Semicolon]"
+            },
             "editor.action.toggleWordWrap": {
                 "label": "Alt+Z",
                 "userSettingsLabel": "alt+z"
@@ -1512,18 +1544,32 @@
         }
     },
     "theme": "vs-dark",
-    "themeBackground": "#1e1e1e",
+    "themeBackground": "#191c28",
+    "windowsState": {
+        "lastActiveWindow": {
+            "folder": "file:///home/carlos/Documents/projects-web",
+            "backupPath": "/home/carlos/.config/Code/Backups/f564616af2c72db70b048c1a054e0855",
+            "uiState": {
+                "mode": 1,
+                "x": 11,
+                "y": 43,
+                "width": 1344,
+                "height": 714
+            }
+        },
+        "openedWindows": []
+    },
     "windowSplash": {
         "baseTheme": "vs-dark",
         "colorInfo": {
             "foreground": "#cccccc",
-            "background": "#1e1e1e",
-            "editorBackground": "#1e1e1e",
-            "titleBarBackground": "#3c3c3c",
-            "activityBarBackground": "#333333",
-            "sideBarBackground": "#252526",
-            "statusBarBackground": "#007acc",
-            "statusBarNoFolderBackground": "#68217a"
+            "background": "#191c28",
+            "editorBackground": "#191c28",
+            "titleBarBackground": "#191c28",
+            "activityBarBackground": "#191c28",
+            "sideBarBackground": "#191c28",
+            "statusBarBackground": "#191c28",
+            "statusBarNoFolderBackground": "#705697"
         },
         "layoutInfo": {
             "sideBarSide": "left",
@@ -1535,18 +1581,5 @@
             "windowBorder": false
         }
     },
-    "windowsState": {
-        "lastActiveWindow": {
-            "folder": "file:///home/carlos/.config/openbox/polybar",
-            "backupPath": "/home/carlos/.config/Code/Backups/34765f8944cc26e983637a98fa5dafcf",
-            "uiState": {
-                "mode": 0,
-                "x": 171,
-                "y": 42,
-                "width": 1024,
-                "height": 710
-            }
-        },
-        "openedWindows": []
-    }
+    "pickerWorkingDir": "/home/zodd/Dropbox/Programming/C"
 }

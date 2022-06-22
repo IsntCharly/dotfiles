@@ -1,35 +1,44 @@
-2022/06/16-10:18:26.726 69cd Reusing MANIFEST /home/carlos/.config/Microsoft/Microsoft Teams/Local Storage/leveldb/MANIFEST-000001
-2022/06/16-10:18:26.726 69cd Recovering log #84
-2022/06/16-10:18:26.734 69cd Level-0 table #87: started
-2022/06/16-10:18:26.746 69cd Level-0 table #87: 634131 bytes OK
-2022/06/16-10:18:26.750 69cd Delete type=0 #84
-2022/06/16-10:18:26.751 69fa Compacting 4@0 + 1@1 files
-2022/06/16-10:18:26.781 69fa Generated table #89@0: 167 keys, 873700 bytes
-2022/06/16-10:18:26.781 69fa Compacted 4@0 + 1@1 files => 873700 bytes
-2022/06/16-10:18:26.783 69fa compacted to: files[ 0 1 1 0 0 0 0 ]
-2022/06/16-10:18:26.783 69fa Delete type=2 #87
-2022/06/16-10:18:26.783 69fa Delete type=2 #79
-2022/06/16-10:18:26.783 69fa Delete type=2 #85
-2022/06/16-10:18:26.783 69fa Delete type=2 #81
-2022/06/16-10:18:26.783 69fa Delete type=2 #83
-2022/06/16-10:19:27.581 69fa Level-0 table #91: started
-2022/06/16-10:19:27.596 69fa Level-0 table #91: 374523 bytes OK
-2022/06/16-10:19:27.599 69fa Delete type=0 #88
-2022/06/16-10:23:39.679 69fa Level-0 table #93: started
-2022/06/16-10:23:39.691 69fa Level-0 table #93: 180186 bytes OK
-2022/06/16-10:23:39.694 69fa Delete type=0 #90
-2022/06/16-10:24:29.791 69fa Level-0 table #95: started
-2022/06/16-10:24:29.799 69fa Level-0 table #95: 144420 bytes OK
-2022/06/16-10:24:29.803 69fa Delete type=0 #92
-2022/06/16-11:07:32.262 69fa Level-0 table #97: started
-2022/06/16-11:07:32.266 69fa Level-0 table #97: 65675 bytes OK
-2022/06/16-11:07:32.269 69fa Delete type=0 #94
-2022/06/16-11:07:32.269 69fa Compacting 4@0 + 1@1 files
-2022/06/16-11:07:32.298 69fa Generated table #98@0: 171 keys, 624396 bytes
-2022/06/16-11:07:32.298 69fa Compacted 4@0 + 1@1 files => 624396 bytes
-2022/06/16-11:07:32.300 69fa compacted to: files[ 0 1 1 0 0 0 0 ]
-2022/06/16-11:07:32.300 69fa Delete type=2 #89
-2022/06/16-11:07:32.300 69fa Delete type=2 #95
-2022/06/16-11:07:32.300 69fa Delete type=2 #93
-2022/06/16-11:07:32.300 69fa Delete type=2 #97
-2022/06/16-11:07:32.300 69fa Delete type=2 #91
+2022/06/21-11:33:31.774 8b2 Reusing MANIFEST /home/carlos/.config/Microsoft/Microsoft Teams/Local Storage/leveldb/MANIFEST-000001
+2022/06/21-11:33:31.777 8b2 Recovering log #112
+2022/06/21-11:33:31.788 8b2 Level-0 table #115: started
+2022/06/21-11:33:31.801 8b2 Level-0 table #115: 509754 bytes OK
+2022/06/21-11:33:31.805 8b2 Delete type=0 #112
+2022/06/21-11:33:58.805 a03 Level-0 table #118: started
+2022/06/21-11:33:58.825 a03 Level-0 table #118: 371845 bytes OK
+2022/06/21-11:33:58.827 a03 Delete type=0 #116
+2022/06/21-11:33:58.828 a03 Compacting 4@0 + 1@1 files
+2022/06/21-11:33:58.863 a03 Generated table #119@0: 182 keys, 586609 bytes
+2022/06/21-11:33:58.863 a03 Compacted 4@0 + 1@1 files => 586609 bytes
+2022/06/21-11:33:58.864 a03 compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/06/21-11:33:58.865 a03 Delete type=2 #115
+2022/06/21-11:33:58.865 a03 Delete type=2 #111
+2022/06/21-11:33:58.865 a03 Delete type=2 #109
+2022/06/21-11:33:58.865 a03 Delete type=2 #118
+2022/06/21-11:33:58.865 a03 Delete type=2 #113
+2022/06/21-11:34:33.372 a03 Level-0 table #121: started
+2022/06/21-11:34:33.385 a03 Level-0 table #121: 246979 bytes OK
+2022/06/21-11:34:33.390 a03 Delete type=0 #117
+2022/06/21-11:35:32.582 a03 Level-0 table #123: started
+2022/06/21-11:35:32.588 a03 Level-0 table #123: 58637 bytes OK
+2022/06/21-11:35:32.591 a03 Delete type=0 #120
+2022/06/21-11:43:28.331 a03 Level-0 table #125: started
+2022/06/21-11:43:28.355 a03 Level-0 table #125: 31327 bytes OK
+2022/06/21-11:43:28.357 a03 Delete type=0 #122
+2022/06/21-11:46:12.619 a03 Level-0 table #127: started
+2022/06/21-11:46:12.630 a03 Level-0 table #127: 36681 bytes OK
+2022/06/21-11:46:12.633 a03 Delete type=0 #124
+2022/06/21-11:46:12.633 a03 Compacting 4@0 + 1@1 files
+2022/06/21-11:46:12.665 a03 Generated table #128@0: 247 keys, 702367 bytes
+2022/06/21-11:46:12.665 a03 Compacted 4@0 + 1@1 files => 702367 bytes
+2022/06/21-11:46:12.667 a03 compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/06/21-11:46:12.667 a03 Delete type=2 #125
+2022/06/21-11:46:12.667 a03 Delete type=2 #119
+2022/06/21-11:46:12.667 a03 Delete type=2 #121
+2022/06/21-11:46:12.667 a03 Delete type=2 #127
+2022/06/21-11:46:12.667 a03 Delete type=2 #123
+2022/06/21-11:59:02.550 a03 Level-0 table #130: started
+2022/06/21-11:59:02.552 a03 Level-0 table #130: 21620 bytes OK
+2022/06/21-11:59:02.554 a03 Delete type=0 #126
+2022/06/21-12:23:00.963 a03 Level-0 table #132: started
+2022/06/21-12:23:00.969 a03 Level-0 table #132: 64884 bytes OK
+2022/06/21-12:23:00.973 a03 Delete type=0 #129

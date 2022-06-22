@@ -1,0 +1,6 @@
+2022/06/19-16:16:27.218 3ccb Creating DB /home/carlos/.config/microsoft-edge/Default/IndexedDB/https_aternos.org_0.indexeddb.leveldb since it was missing.
+2022/06/19-16:16:27.226 3ccb Reusing MANIFEST /home/carlos/.config/microsoft-edge/Default/IndexedDB/https_aternos.org_0.indexeddb.leveldb/MANIFEST-000001
+2022/06/19-16:16:45.551 3ccb Level-0 table #5: started
+2022/06/19-16:16:45.554 3ccb Level-0 table #5: 373 bytes OK
+2022/06/19-16:16:45.557 3ccb Delete type=0 #3
+2022/06/19-16:16:45.558 3ccb Manual compaction at level-0 from (begin) .. (end); will stop at (end)

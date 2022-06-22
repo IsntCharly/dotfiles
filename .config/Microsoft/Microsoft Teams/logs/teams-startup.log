@@ -1,32 +1,19 @@
 Error while parsing hooks JSON. Error: "ENOENT: no such file or directory, open '/home/carlos/.config/Microsoft/Microsoft Teams/hooks.json'"
-(node:27080) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(node:2198) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
 
-(teams:27080): Gdk-WARNING **: 10:18:26.595: Cannot transform xsetting gtk-xft-dpi of type gchararray to type gint
-
-
-(teams:27080): Gdk-WARNING **: 10:18:26.634: Cannot transform xsetting gtk-xft-dpi of type gchararray to type gint
+(teams:2198): Gdk-WARNING **: 11:33:31.592: Cannot transform xsetting gtk-xft-dpi of type gchararray to type gint
 
 
-(teams:27080): Gdk-WARNING **: 10:18:26.634: Cannot transform xsetting gtk-enable-input-feedback-sounds of type gchararray to type gboolean
+(teams:2198): Gdk-WARNING **: 11:33:31.630: Cannot transform xsetting gtk-xft-dpi of type gchararray to type gint
 
 
-(teams:27080): Gdk-WARNING **: 10:18:26.634: Cannot transform xsetting gtk-enable-event-sounds of type gchararray to type gboolean
+(teams:2198): Gdk-WARNING **: 11:33:31.630: Cannot transform xsetting gtk-enable-input-feedback-sounds of type gchararray to type gboolean
 
 
-(teams:27080): Gdk-WARNING **: 10:18:26.635: Cannot transform xsetting gtk-enable-input-feedback-sounds of type gchararray to type gboolean
-
-(node:27080) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 ecsSettingsUpdated listeners added to [EventEmitter]. Use emitter.setMaxListeners() to increase limit
-(node:27080) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 appInitialized listeners added to [EventEmitter]. Use emitter.setMaxListeners() to increase limit
-(node:27247) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 remote-videos-count-changed listeners added to [CallHandler]. Use emitter.setMaxListeners() to increase limit
-
-(teams:27080): Gdk-WARNING **: 11:07:36.451: Cannot transform xsetting gtk-xft-dpi of type gchararray to type gint
+(teams:2198): Gdk-WARNING **: 11:33:31.630: Cannot transform xsetting gtk-enable-event-sounds of type gchararray to type gboolean
 
 
-(teams:27080): Gdk-WARNING **: 11:07:36.512: Cannot transform xsetting gtk-enable-input-feedback-sounds of type gchararray to type gboolean
+(teams:2198): Gdk-WARNING **: 11:33:31.631: Cannot transform xsetting gtk-enable-input-feedback-sounds of type gchararray to type gboolean
 
-
-(teams:27080): Gdk-WARNING **: 11:07:36.512: Cannot transform xsetting gtk-enable-event-sounds of type gchararray to type gboolean
-
-
-(teams:27080): Gdk-WARNING **: 11:07:36.512: Cannot transform xsetting gtk-xft-dpi of type gchararray to type gint
-
+(node:2198) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 ecsSettingsUpdated listeners added to [EventEmitter]. Use emitter.setMaxListeners() to increase limit
+(node:2198) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 appInitialized listeners added to [EventEmitter]. Use emitter.setMaxListeners() to increase limit

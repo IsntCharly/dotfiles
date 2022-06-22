@@ -1,0 +1,28 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    
+}
+*::selection{
+    background-color: #34feb0;
+    color: #211c2b;
+}
+header{
+    width: 100%;
+    height: 100vh;
+    background:url("https://images.unsplash.com/photo-1654250910768-0162e080ef86?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1032&q=80");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.title{
+    padding: 12px 24px;
+    background-color: white;
+    mix-blend-mode: screen;
+    font-size: 6em;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}

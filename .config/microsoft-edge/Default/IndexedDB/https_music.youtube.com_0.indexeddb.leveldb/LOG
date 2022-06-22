@@ -1,2 +1,6 @@
-2022/06/17-20:33:25.544 c10 Creating DB /home/carlos/.config/microsoft-edge/Default/IndexedDB/https_music.youtube.com_0.indexeddb.leveldb since it was missing.
-2022/06/17-20:33:25.547 c10 Reusing MANIFEST /home/carlos/.config/microsoft-edge/Default/IndexedDB/https_music.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/06/21-12:33:12.324 1347 Reusing MANIFEST /home/carlos/.config/microsoft-edge/Default/IndexedDB/https_music.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/06/21-12:33:12.325 1347 Recovering log #3
+2022/06/21-12:33:12.336 1347 Reusing old log /home/carlos/.config/microsoft-edge/Default/IndexedDB/https_music.youtube.com_0.indexeddb.leveldb/000003.log 
+2022/06/21-12:53:59.600 1698 Level-0 table #5: started
+2022/06/21-12:53:59.617 1698 Level-0 table #5: 907195 bytes OK
+2022/06/21-12:53:59.619 1698 Delete type=0 #3

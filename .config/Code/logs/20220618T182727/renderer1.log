@@ -1,0 +1,14 @@
+[2022-06-18 18:32:46.519] [renderer1] [error] Unable to write into user settings because the content of the file is newer.: Error: Unable to write into user settings because the content of the file is newer.
+    at S.toConfigurationEditingError (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2689:12798)
+    at S.save (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2689:9917)
+    at async S.updateConfiguration (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2689:9767)
+    at async S.doWriteConfiguration (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2689:9297)
+    at async Object.factory (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2689:8968)
+[2022-06-18 18:32:46.520] [renderer1] [error] Unable to write into user settings because the file has unsaved changes. Please save the user settings file first and then try again.: Error: Unable to write into user settings because the file has unsaved changes. Please save the user settings file first and then try again.
+    at S.toConfigurationEditingError (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2689:12798)
+    at S.validate (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2689:16779)
+    at S.doWriteConfiguration (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2689:9123)
+    at Object.factory (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2689:8979)
+    at D.consume (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:71:16060)
+    at D.consumed (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:71:16221)
+    at vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:71:16122

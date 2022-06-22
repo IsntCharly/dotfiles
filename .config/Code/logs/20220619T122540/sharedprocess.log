@@ -1,0 +1,26 @@
+[2022-06-19 12:25:43.300] [sharedprocess] [info] Starting worker process with pid 2372 (type: fileWatcher, window: 1).
+[2022-06-19 12:26:44.825] [sharedprocess] [info] Worker process with pid 2372 terminated normally (type: fileWatcher, window: 1).
+[2022-06-19 12:26:46.350] [sharedprocess] [info] Starting worker process with pid 2557 (type: fileWatcher, window: 1).
+[2022-06-19 12:27:48.482] [sharedprocess] [info] Getting Manifest... equinusocio.vsc-material-theme-icons
+[2022-06-19 12:27:48.491] [sharedprocess] [info] Installing extension: equinusocio.vsc-material-theme-icons
+[2022-06-19 12:27:50.929] [sharedprocess] [info] Downloaded extension: equinusocio.vsc-material-theme-icons /home/carlos/.config/Code/CachedExtensionVSIXs/equinusocio.vsc-material-theme-icons-2.3.1
+[2022-06-19 12:27:54.167] [sharedprocess] [info] Extracted extension to /home/carlos/.vscode/extensions/.28e042a5-4bad-4b15-b6a1-d6d28df35b98: equinusocio.vsc-material-theme-icons
+[2022-06-19 12:27:54.182] [sharedprocess] [info] Renamed to /home/carlos/.vscode/extensions/equinusocio.vsc-material-theme-icons-2.3.1
+[2022-06-19 12:27:54.183] [sharedprocess] [info] Extracting completed. equinusocio.vsc-material-theme-icons
+[2022-06-19 12:27:54.185] [sharedprocess] [info] Extension installed successfully: equinusocio.vsc-material-theme-icons
+[2022-06-19 12:28:48.013] [sharedprocess] [info] Getting Manifest... ritwickdey.liveserver
+[2022-06-19 12:28:48.042] [sharedprocess] [info] Installing extension: ritwickdey.liveserver
+[2022-06-19 12:28:49.731] [sharedprocess] [info] Downloaded extension: ritwickdey.liveserver /home/carlos/.config/Code/CachedExtensionVSIXs/ritwickdey.liveserver-5.7.5
+[2022-06-19 12:28:50.911] [sharedprocess] [info] Extracted extension to /home/carlos/.vscode/extensions/.59e42fd8-0ef9-4f50-899f-93bedb5cb06e: ritwickdey.liveserver
+[2022-06-19 12:28:50.922] [sharedprocess] [info] Renamed to /home/carlos/.vscode/extensions/ritwickdey.liveserver-5.7.5
+[2022-06-19 12:28:50.926] [sharedprocess] [info] Extracting completed. ritwickdey.liveserver
+[2022-06-19 12:28:50.928] [sharedprocess] [info] Extension installed successfully: ritwickdey.liveserver
+[2022-06-19 12:51:27.377] [sharedprocess] [info] Getting Manifest... 2gua.rainbow-brackets
+[2022-06-19 12:51:27.391] [sharedprocess] [info] Installing extension: 2gua.rainbow-brackets
+[2022-06-19 12:51:28.611] [sharedprocess] [info] Downloaded extension: 2gua.rainbow-brackets /home/carlos/.config/Code/CachedExtensionVSIXs/2gua.rainbow-brackets-0.0.6
+[2022-06-19 12:51:28.631] [sharedprocess] [info] Extracted extension to /home/carlos/.vscode/extensions/.2db9ca60-23ea-4555-a1d4-80aec7a1c00d: 2gua.rainbow-brackets
+[2022-06-19 12:51:28.634] [sharedprocess] [info] Renamed to /home/carlos/.vscode/extensions/2gua.rainbow-brackets-0.0.6
+[2022-06-19 12:51:28.635] [sharedprocess] [info] Extracting completed. 2gua.rainbow-brackets
+[2022-06-19 12:51:28.637] [sharedprocess] [info] Extension installed successfully: 2gua.rainbow-brackets
+[2022-06-19 12:51:56.288] [sharedprocess] [info] Worker process with pid 2557 terminated normally (type: fileWatcher, window: 1).
+[2022-06-19 12:51:57.884] [sharedprocess] [info] Starting worker process with pid 4406 (type: fileWatcher, window: 1).

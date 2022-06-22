@@ -1,3 +1,16 @@
-2022/06/16-10:18:27.727 6a31 Reusing MANIFEST /home/carlos/.config/Microsoft/Microsoft Teams/Session Storage/MANIFEST-000001
-2022/06/16-10:18:27.727 6a31 Recovering log #12
-2022/06/16-10:18:27.728 6a31 Reusing old log /home/carlos/.config/Microsoft/Microsoft Teams/Session Storage/000012.log 
+2022/06/21-11:33:32.750 8c5 Reusing MANIFEST /home/carlos/.config/Microsoft/Microsoft Teams/Session Storage/MANIFEST-000001
+2022/06/21-11:33:32.750 8c5 Recovering log #15
+2022/06/21-11:33:32.750 8c5 Reusing old log /home/carlos/.config/Microsoft/Microsoft Teams/Session Storage/000015.log 
+2022/06/21-11:40:12.940 a03 Level-0 table #19: started
+2022/06/21-11:40:12.945 a03 Level-0 table #19: 24878 bytes OK
+2022/06/21-11:40:12.946 a03 Delete type=0 #15
+2022/06/21-11:40:12.947 a03 Expanding@0 1+1 (27902+26289 bytes) to 4+1 (106188+26289 bytes)
+2022/06/21-11:40:12.947 a03 Compacting 4@0 + 1@1 files
+2022/06/21-11:40:12.950 a03 Generated table #20@0: 114 keys, 28215 bytes
+2022/06/21-11:40:12.950 a03 Compacted 4@0 + 1@1 files => 28215 bytes
+2022/06/21-11:40:12.951 a03 compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/06/21-11:40:12.951 a03 Delete type=2 #16
+2022/06/21-11:40:12.951 a03 Delete type=2 #8
+2022/06/21-11:40:12.951 a03 Delete type=2 #13
+2022/06/21-11:40:12.951 a03 Delete type=2 #10
+2022/06/21-11:40:12.951 a03 Delete type=2 #19

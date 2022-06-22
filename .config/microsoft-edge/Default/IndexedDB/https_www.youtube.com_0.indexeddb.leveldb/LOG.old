@@ -1,3 +1,6 @@
-2022/06/17-20:32:17.717 a1b Reusing MANIFEST /home/carlos/.config/microsoft-edge/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
-2022/06/17-20:32:17.717 a1b Recovering log #29
-2022/06/17-20:32:17.742 a1b Reusing old log /home/carlos/.config/microsoft-edge/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000029.log 
+2022/06/21-14:45:45.648 3bc1 Reusing MANIFEST /home/carlos/.config/microsoft-edge/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/06/21-14:45:45.649 3bc1 Recovering log #49
+2022/06/21-14:45:45.652 3bc1 Reusing old log /home/carlos/.config/microsoft-edge/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000049.log 
+2022/06/21-15:03:43.937 3c25 Level-0 table #54: started
+2022/06/21-15:03:43.952 3c25 Level-0 table #54: 937973 bytes OK
+2022/06/21-15:03:43.954 3c25 Delete type=0 #49

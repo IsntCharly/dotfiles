@@ -1,0 +1,6 @@
+2022/06/20-12:20:13.573 26b0 Reusing MANIFEST /home/carlos/.config/ClickUp/Local Storage/leveldb/MANIFEST-000001
+2022/06/20-12:20:13.573 26b0 Recovering log #3
+2022/06/20-12:20:13.573 26b0 Reusing old log /home/carlos/.config/ClickUp/Local Storage/leveldb/000003.log 
+2022/06/20-12:23:14.553 26b1 Level-0 table #5: started
+2022/06/20-12:23:14.564 26b1 Level-0 table #5: 39230 bytes OK
+2022/06/20-12:23:14.566 26b1 Delete type=0 #3

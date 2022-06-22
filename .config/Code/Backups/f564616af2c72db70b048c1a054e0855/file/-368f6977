@@ -1,0 +1,3 @@
+file:///home/carlos/Documents/projects-web/scripts/main.js {"mtime":1655667938646,"ctime":1655664763238,"size":0,"etag":"38sdb8j6a0","orphaned":false,"typeId":""}
+let text = document.getElementById("text");
+var container = document.querySelector('.container');

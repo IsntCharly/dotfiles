@@ -1,0 +1,26 @@
+[2022-06-18 18:27:30.060] [sharedprocess] [info] Starting worker process with pid 14705 (type: fileWatcher, window: 1).
+[2022-06-18 18:28:11.527] [sharedprocess] [info] Getting Manifest... youssef.viow
+[2022-06-18 18:28:11.541] [sharedprocess] [info] Installing extension: youssef.viow
+[2022-06-18 18:28:14.365] [sharedprocess] [info] Downloaded extension: youssef.viow /home/carlos/.config/Code/CachedExtensionVSIXs/youssef.viow-0.3.3
+[2022-06-18 18:28:14.480] [sharedprocess] [info] Extracted extension to /home/carlos/.vscode/extensions/.0bdcab3b-0a05-4694-a646-1bfb12ad1996: youssef.viow
+[2022-06-18 18:28:14.488] [sharedprocess] [info] Renamed to /home/carlos/.vscode/extensions/youssef.viow-0.3.3
+[2022-06-18 18:28:14.491] [sharedprocess] [info] Extracting completed. youssef.viow
+[2022-06-18 18:28:14.493] [sharedprocess] [info] Extension installed successfully: youssef.viow
+[2022-06-18 18:30:39.845] [sharedprocess] [info] Starting worker process with pid 15469 (type: fileWatcher, window: 3).
+[2022-06-18 18:32:44.653] [sharedprocess] [info] Getting Manifest... s-nlf-fh.glassit
+[2022-06-18 18:32:44.665] [sharedprocess] [info] Installing extension: s-nlf-fh.glassit
+[2022-06-18 18:32:45.884] [sharedprocess] [info] Downloaded extension: s-nlf-fh.glassit /home/carlos/.config/Code/CachedExtensionVSIXs/s-nlf-fh.glassit-0.2.4
+[2022-06-18 18:32:46.026] [sharedprocess] [info] Extracted extension to /home/carlos/.vscode/extensions/.3ed0d38e-2be8-4079-88ee-cbe850455910: s-nlf-fh.glassit
+[2022-06-18 18:32:46.034] [sharedprocess] [info] Renamed to /home/carlos/.vscode/extensions/s-nlf-fh.glassit-0.2.4
+[2022-06-18 18:32:46.036] [sharedprocess] [info] Extracting completed. s-nlf-fh.glassit
+[2022-06-18 18:32:46.038] [sharedprocess] [info] Extension installed successfully: s-nlf-fh.glassit
+[2022-06-18 18:34:14.805] [sharedprocess] [info] Getting Manifest... naumovs.color-highlight
+[2022-06-18 18:34:14.817] [sharedprocess] [info] Installing extension: naumovs.color-highlight
+[2022-06-18 18:34:16.074] [sharedprocess] [info] Downloaded extension: naumovs.color-highlight /home/carlos/.config/Code/CachedExtensionVSIXs/naumovs.color-highlight-2.5.0
+[2022-06-18 18:34:16.479] [sharedprocess] [info] Extracted extension to /home/carlos/.vscode/extensions/.ba5a01db-a9cd-4527-bb87-1f70560004c5: naumovs.color-highlight
+[2022-06-18 18:34:16.495] [sharedprocess] [info] Renamed to /home/carlos/.vscode/extensions/naumovs.color-highlight-2.5.0
+[2022-06-18 18:34:16.496] [sharedprocess] [info] Extracting completed. naumovs.color-highlight
+[2022-06-18 18:34:16.498] [sharedprocess] [info] Extension installed successfully: naumovs.color-highlight
+[2022-06-18 18:34:41.000] [sharedprocess] [info] Worker process with pid 15469 terminated normally (type: fileWatcher, window: 3).
+[2022-06-18 18:34:42.390] [sharedprocess] [info] Starting worker process with pid 15852 (type: fileWatcher, window: 3).
+[2022-06-18 18:36:07.592] [sharedprocess] [info] Worker process with pid 15852 terminated normally (type: fileWatcher, window: 3).

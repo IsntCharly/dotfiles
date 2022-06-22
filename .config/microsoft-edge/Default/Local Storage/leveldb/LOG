@@ -1,3 +1,20 @@
-2022/06/17-23:19:53.916 5 Reusing MANIFEST /home/carlos/.config/microsoft-edge/Default/Local Storage/leveldb/MANIFEST-000001
-2022/06/17-23:19:53.921 5 Recovering log #115
-2022/06/17-23:19:53.924 5 Reusing old log /home/carlos/.config/microsoft-edge/Default/Local Storage/leveldb/000115.log 
+2022/06/21-17:00:15.951 3 Reusing MANIFEST /home/carlos/.config/microsoft-edge/Default/Local Storage/leveldb/MANIFEST-000001
+2022/06/21-17:00:15.953 3 Recovering log #222
+2022/06/21-17:00:15.954 3 Reusing old log /home/carlos/.config/microsoft-edge/Default/Local Storage/leveldb/000222.log 
+2022/06/21-17:07:44.024 5 Level-0 table #226: started
+2022/06/21-17:07:44.030 5 Level-0 table #226: 19707 bytes OK
+2022/06/21-17:07:44.035 5 Delete type=0 #222
+2022/06/21-17:07:44.036 5 Compacting 4@0 + 2@1 files
+2022/06/21-17:07:44.097 5 Generated table #227@0: 1822 keys, 2665916 bytes
+2022/06/21-17:07:44.124 5 Generated table #228@0: 818 keys, 1309539 bytes
+2022/06/21-17:07:44.124 5 Compacted 4@0 + 2@1 files => 3975455 bytes
+2022/06/21-17:07:44.126 5 compacted to: files[ 0 2 1 0 0 0 0 ]
+2022/06/21-17:07:44.128 5 Delete type=2 #223
+2022/06/21-17:07:44.128 5 Delete type=2 #215
+2022/06/21-17:07:44.128 5 Delete type=2 #226
+2022/06/21-17:07:44.128 5 Delete type=2 #221
+2022/06/21-17:07:44.128 5 Delete type=2 #216
+2022/06/21-17:07:44.128 5 Delete type=2 #219
+2022/06/21-17:18:43.243 5 Level-0 table #230: started
+2022/06/21-17:18:43.256 5 Level-0 table #230: 54779 bytes OK
+2022/06/21-17:18:43.259 5 Delete type=0 #225

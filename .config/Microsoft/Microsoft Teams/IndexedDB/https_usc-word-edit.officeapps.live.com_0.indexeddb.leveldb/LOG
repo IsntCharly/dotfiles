@@ -1,0 +1,8 @@
+2022/06/21-11:52:40.737 e5d Reusing MANIFEST /home/carlos/.config/Microsoft/Microsoft Teams/IndexedDB/https_usc-word-edit.officeapps.live.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/06/21-11:52:40.737 e5d Recovering log #22
+2022/06/21-11:52:40.737 e5d Reusing old log /home/carlos/.config/Microsoft/Microsoft Teams/IndexedDB/https_usc-word-edit.officeapps.live.com_0.indexeddb.leveldb/000022.log 
+2022/06/21-11:52:50.102 92b Level-0 table #26: started
+2022/06/21-11:52:50.102 92b Level-0 table #26: 0 bytes OK
+2022/06/21-11:52:50.106 92b Delete type=0 #22
+2022/06/21-11:52:50.106 92b Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2022/06/21-11:52:50.106 92b Manual compaction at level-1 from (begin) .. (end); will stop at (end)

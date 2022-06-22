@@ -31,7 +31,7 @@ workspaces() {
 	name=1
 	for monitor in `bspc query -M`; do
 		#bspc monitor ${monitor} -n "$name" -d 'I' 'II' 'III' 'IV' 'V' 'VI' 'VII' 'VIII'
-		bspc monitor ${monitor} -n "$name" -d '' '' '' '' '' '' '' ''
+		bspc monitor ${monitor} -n "$name" -d '' '' '' '' '' '' '' ''
 		let name++
 	done
 }
@@ -137,8 +137,8 @@ xfce4-power-manager &
 xsetroot -cursor_name left_ptr
 
 # Restore wallpaper
-bash $HOME/.fehbg
-nitrogen --set-tiled Imágenes/Wallpaper.png &
+#bash $HOME/.fehbg
+nitrogen --set-tiled Imágenes/girl-faded-dark.png &
 # Start mpd
 exec mpd &
 
@@ -148,4 +148,4 @@ bspbar
 bspcomp
 bspdunst
 bspfloat &
-
+wallpaper.sh

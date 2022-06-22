@@ -1,3 +1,9 @@
-2022/06/17-23:04:09.145 724 Reusing MANIFEST /home/carlos/.config/microsoft-edge/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
-2022/06/17-23:04:09.146 724 Recovering log #29
-2022/06/17-23:04:09.187 724 Reusing old log /home/carlos/.config/microsoft-edge/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000029.log 
+2022/06/21-17:43:33.446 65c7 Reusing MANIFEST /home/carlos/.config/microsoft-edge/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/06/21-17:43:33.446 65c7 Recovering log #53
+2022/06/21-17:43:33.446 65c7 Reusing old log /home/carlos/.config/microsoft-edge/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000053.log 
+2022/06/21-17:43:35.527 65c7 Compacting 1@1 + 1@2 files
+2022/06/21-17:43:35.534 65c7 Generated table #56@1: 850 keys, 69516 bytes
+2022/06/21-17:43:35.535 65c7 Compacted 1@1 + 1@2 files => 69516 bytes
+2022/06/21-17:43:35.536 65c7 compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/06/21-17:43:35.538 65c7 Delete type=2 #54
+2022/06/21-17:43:35.538 65c7 Delete type=2 #51

@@ -1,0 +1,16 @@
+[2022-06-19 12:17:02.634] [renderer1] [error] Unable to write into user settings because the file has unsaved changes. Please save the user settings file first and then try again.: Error: Unable to write into user settings because the file has unsaved changes. Please save the user settings file first and then try again.
+    at S.toConfigurationEditingError (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2689:12798)
+    at S.validate (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2689:16779)
+    at S.doWriteConfiguration (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2689:9123)
+    at Object.factory (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2689:8979)
+    at D.consume (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:71:16060)
+    at vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:71:15875
+    at new Promise (<anonymous>)
+    at D.queue (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:71:15799)
+    at S.writeConfiguration (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2689:8948)
+    at N.writeConfigurationValue (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2689:42681)
+    at vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2689:28033
+    at Array.map (<anonymous>)
+    at N.updateValue (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2689:28021)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-06-19 12:17:29.934] [renderer1] [error] [text file model] handleSaveError(1) - exit - resulted in a save error: Error: Unable to write file 'vscode-userdata:/home/carlos/.config/Code/User/settings.json' (Error: File Modified Since) vscode-userdata:/home/carlos/.config/Code/User/settings.json

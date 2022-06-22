@@ -1,0 +1,5 @@
+[2022-06-20 12:14:45.805] [info]  [preload]: User app subscribed to found-in-page
+[2022-06-20 12:14:46.228] [info]  [preload]: User app subscribed to open-protocol-url
+[2022-06-20 12:20:16.076] [info]  [preload]: User app subscribed to open-protocol-url
+[2022-06-20 12:20:16.532] [info]  [preload]: User app subscribed to found-in-page
+[2022-06-20 12:21:18.967] [info]  [preload]: User app subscribed to pushNotifications.start

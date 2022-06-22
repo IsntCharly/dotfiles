@@ -1,2 +1,7 @@
-2022/06/17-19:40:40.638 13b5 Creating DB /home/carlos/.config/microsoft-edge/Default/IndexedDB/devtools_devtools_0.indexeddb.leveldb since it was missing.
-2022/06/17-19:40:40.641 13b5 Reusing MANIFEST /home/carlos/.config/microsoft-edge/Default/IndexedDB/devtools_devtools_0.indexeddb.leveldb/MANIFEST-000001
+2022/06/21-14:24:44.783 2f46 Reusing MANIFEST /home/carlos/.config/microsoft-edge/Default/IndexedDB/devtools_devtools_0.indexeddb.leveldb/MANIFEST-000001
+2022/06/21-14:24:44.783 2f46 Recovering log #3
+2022/06/21-14:24:44.788 2f46 Reusing old log /home/carlos/.config/microsoft-edge/Default/IndexedDB/devtools_devtools_0.indexeddb.leveldb/000003.log 
+2022/06/21-14:24:57.265 307d Level-0 table #5: started
+2022/06/21-14:24:57.278 307d Level-0 table #5: 451282 bytes OK
+2022/06/21-14:24:57.280 307d Delete type=0 #3
+2022/06/21-14:24:57.280 307d Manual compaction at level-0 from (begin) .. (end); will stop at (end)

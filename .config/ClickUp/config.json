@@ -1,0 +1,22 @@
+{
+	"hasLaunchedEver": true,
+	"lastSeenAppVersion": "3.0.6",
+	"credentials": {
+		"keys": {
+			"privateKey": "1SvBYVNB4XpM6Ei2Ip-gcnEITZnwurLucL0NmsQdEAU",
+			"publicKey": "BIlRuHXWIiQTsB_86xKp1xjj70fPdWDYWnXVnrOb0_eKttj7q3phLNHg6o7nq4Rq_AMpng9-JGQZirbawPK8G1E",
+			"authSecret": "Aq4-Tn4Wr-uKecTTN4q17g"
+		},
+		"fcm": {
+			"token": "epUP1cEKx-s:APA91bHuCk8nokwjeQyhmQfbj5oHMbB4hkDkpLbZG7AH-nPsFry7o_UtZjtnqX7YJk0SYfL0pi8oJ6HRichQoWdMsH3btVXIj_ENGT8ZaL1ev1-UNKtfrvKIBVpanUm7l2N_ZJn-QF4Q",
+			"pushSet": "ejNHl-4ouk0:APA91bFBmRfmmqrFjbUvKyLyz3weWEH5TJihod2nWLqRlUlPBYF3-SIwUnWGiNQPfaLqGx0Ebh1xliqw1ghTFBY3wWMRe3Flgo27kIfsk1ea5P7NVWFcybS3_9HBshKWadO8t7SkmiDy"
+		},
+		"gcm": {
+			"token": "cHYmNRrMxfg:APA91bFV60IWBK6aUQiIxbk-i0IkIT6u9Dal1uNLAEn8Hf52Pq1TEZpO1AMKY-7AQfKwzkNVr72zUpqIRAg7eS1_E0w0onm6nDxiQYbBWI6UuXMIg09jeKibLCRgNLU4ZzhHfwsOOFEX",
+			"androidId": "5038423814333898149",
+			"securityToken": "2107390716979688121",
+			"appId": "wp:receiver.push.com#a84b33dc-c5cd-4445-9ff2-d7320683c5cf"
+		}
+	},
+	"senderId": "629831864745"
+}

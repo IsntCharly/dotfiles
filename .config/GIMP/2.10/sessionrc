@@ -79,7 +79,7 @@
 (session-info "toplevel"
     (factory-entry "gimp-file-open-dialog")
     (position 10 10)
-    (size 720 554))
+    (size 720 587))
 (session-info "toplevel"
     (factory-entry "gimp-image-new-dialog")
     (position 477 238))
